@@ -16,7 +16,12 @@ MonoBehaviour:
   m_Data:
     m_SerializedData: []
   m_GUID: fbc2866010df83047913fdc225b6c2e4
-  m_SerializeEntries: []
+  m_SerializeEntries:
+  - m_GUID: a8ef3b2284aa46146a6f70f9215ff6b6
+    m_Address: Assets/Stylized_Pirate_Ship/StylShip_MatTextures/StylShip_Props_Mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: 9ff79abeac0f5f34a93a52874abbbc2a, type: 2}
   m_SchemaSet:
